@@ -16,7 +16,7 @@ var _0xodm='jsjiami.com.v7';const _0x38aed6=_0x41f6;function _0x41f6(_0x1feabc,_
 
 let GAME_SETTINGS = {
 	minBombHits: 0,
-	minIceHits: Math.floor(Math.random() * 2) + 2,
+	minIceHits: Math.floor(Math.random() * 4) + 2,
 	flowerSkipPercentage: Math.floor(Math.random() * 6) + 15,
 	minDelayMs: 500,
 	maxDelayMs: 999,
